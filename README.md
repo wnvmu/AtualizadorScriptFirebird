@@ -120,3 +120,8 @@ CREATE TABLE TABSCRIPTS (
 ## 📞 Suporte
 
 Para dúvidas ou melhorias, entre em contato com o desenvolvedor responsável.
+
+**Wellington N. Verzola**  
+📞 Telefone/Whatsapp: +55 28 999126625  
+✉️ E-mail: wellingtonnunesverzola@gmail.com  
+🌐 GitHub: [github.com/wellingtonverzola](https://github.com/wellingtonverzola)
