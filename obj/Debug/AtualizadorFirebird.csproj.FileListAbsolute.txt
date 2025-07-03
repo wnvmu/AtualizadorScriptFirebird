@@ -1,0 +1,11 @@
+C:\WNV\Atualizador Firebird\Projeto\AtualizadorFirebird.dll
+C:\WNV\Atualizador Firebird\Projeto\AtualizadorFirebird.pdb
+C:\WNV\Atualizador Firebird\Projeto\AtualizadorFirebird.tlb
+C:\WNV\Atualizador Firebird\Projeto\FirebirdSql.Data.FirebirdClient.dll
+C:\WNV\Atualizador Firebird\Projeto\System.Runtime.CompilerServices.Unsafe.dll
+C:\WNV\Atualizador Firebird\Projeto\System.Threading.Tasks.Extensions.dll
+C:\WNV\Atualizador Firebird\obj\Debug\AtualizadorFirebird.GeneratedMSBuildEditorConfig.editorconfig
+C:\WNV\Atualizador Firebird\obj\Debug\AtualizadorFirebird.csproj.CoreCompileInputs.cache
+C:\WNV\Atualizador Firebird\obj\Debug\AtualizadorFirebird.csproj.CopyComplete
+C:\WNV\Atualizador Firebird\obj\Debug\AtualizadorFirebird.dll
+C:\WNV\Atualizador Firebird\obj\Debug\AtualizadorFirebird.pdb

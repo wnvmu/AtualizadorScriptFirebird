@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WNV\\Atualizador Firebird\\AtualizadorFirebird.csproj": {}
+  },
+  "projects": {
+    "C:\\WNV\\Atualizador Firebird\\AtualizadorFirebird.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WNV\\Atualizador Firebird\\AtualizadorFirebird.csproj",
+        "projectName": "AtualizadorFirebird",
+        "projectPath": "C:\\WNV\\Atualizador Firebird\\AtualizadorFirebird.csproj",
+        "packagesPath": "C:\\Users\\Wellington\\.nuget\\packages\\",
+        "outputPath": "C:\\WNV\\Atualizador Firebird\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wellington\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "FirebirdSql.Data.FirebirdClient": {
+              "target": "Package",
+              "version": "[8.5.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

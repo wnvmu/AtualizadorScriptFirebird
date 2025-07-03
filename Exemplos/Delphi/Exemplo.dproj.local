@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/03 12:26:22.026,=C:\Users\Wellington\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/07/03 12:28:24.911,C:\WNV\Atualizador Firebird\Exemplos\Delphi\UntExemplo.pas=C:\Users\Wellington\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/07/03 12:28:24.911,C:\WNV\Atualizador Firebird\Exemplos\Delphi\UntExemplo.dfm=C:\Users\Wellington\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2025/07/03 12:28:42.136,C:\WNV\Atualizador Firebird\Exemplos\Delphi\Exemplo.dproj=C:\Users\Wellington\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <OutputPath>$(SolutionDir)Projeto\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    
+    <!-- COM Interop -->
+    <ComVisible>true</ComVisible>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebirdSql.Data.FirebirdClient" Version="8.5.4" />
+  </ItemGroup>
+</Project>
