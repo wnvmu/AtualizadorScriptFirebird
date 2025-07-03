@@ -108,11 +108,21 @@ E conter comandos separados por:
 ## 🧩 Tabela de Controle
 
 ```sql
+CREATE GENERATOR GEN_TABSCRIPTS_ID;
+
 CREATE TABLE TABSCRIPTS (
   ID           INTEGER NOT NULL,
   DATAEXECUCAO TIMESTAMP NOT NULL,
   DESCRICAO    VARCHAR(255) NOT NULL
 );
+
+CREATE OR ALTER TRIGGER TABSCRIPTS_BI FOR TABSCRIPTS
+ACTIVE BEFORE INSERT POSITION 0
+as
+begin
+  if (new.id is null) then
+    new.id = gen_id(gen_tabscripts_id,1);
+end;
 ```
 
 ---
